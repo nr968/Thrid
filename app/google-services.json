@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "774454576410",
+    "firebase_url": "https://thrid-b0b52.firebaseio.com",
+    "project_id": "thrid-b0b52",
+    "storage_bucket": "thrid-b0b52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774454576410:android:38518331cd54d514",
+        "android_client_info": {
+          "package_name": "com.example.thrid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "774454576410-b0ocqanhd2776g7tktm6hhbstnqr6832.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.thrid",
+            "certificate_hash": "b72a8ecfa4c60f2f97d69e4a6de12ab7cc33d3a7"
+          }
+        },
+        {
+          "client_id": "774454576410-1a2d44d2g4obd5ulk60rdq5pm93q9vsk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVWrDqNDkRKdectlEXE3mgK99h14fHc0s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "774454576410-1a2d44d2g4obd5ulk60rdq5pm93q9vsk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

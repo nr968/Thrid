@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_police"
+            android:icon="@drawable/ic_local_police"
+            android:title="Nearby Police Station" />
+        <item
+            android:id="@+id/nav_hospital"
+            android:icon="@drawable/ic_local_hospital"
+            android:title="Nearby Hospital" />
+        <item
+            android:id="@+id/nav_complaint"
+            android:icon="@drawable/ic_assignment"
+            android:title="Complaint Register" />
+    </group>
+
+    <item android:title="Help Yourself">
+        <menu>
+            <item
+                android:id="@+id/nav_counsil"
+                android:icon="@drawable/ic_contact_phone_"
+                android:title="Mental Health Counsellors" />
+            <item
+                android:id="@+id/nav_numbers"
+                android:icon="@drawable/ic_call"
+                android:title="Helpline Numbers" />
+            <item
+                android:id="@+id/nav_Self"
+                android:icon="@drawable/ic_ondemand_video"
+                android:title="Self defence videos" />
+        </menu>
+    </item>
+
+    <item android:title="Account">
+        <menu>
+            <item
+                android:id="@+id/nav_edit"
+                android:icon="@drawable/ic_edit_black"
+                android:title="Edit Profile"/>
+            <item
+                android:id="@+id/nav_logout"
+                android:icon="@drawable/ic_arrow_back"
+                android:title="Log Out"/>
+        </menu>
+    </item>
+
+
+</menu>
